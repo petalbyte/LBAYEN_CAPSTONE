@@ -1,0 +1,24 @@
+seaborn
+numpy
+pandas
+matplotlib
+huggingface-hub
+datasets
+gensim
+scikit-learn
+chowtest
+
+
+### for edgar crawler from https://github.com/lefterisloukas/edgar-crawler/blob/main/requirements.txt
+beautifulsoup4==4.8.2
+click==7.0
+cssutils==1.0.2
+numpy
+lxml==4.9.1
+pandas
+requests==2.31.0
+tqdm==4.42.1
+pathos==0.2.9
+urllib3==1.26.7
+
+
